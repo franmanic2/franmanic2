@@ -63,10 +63,10 @@
 
 <p align="center">
   <div align="left" class="icons-social" style="margin-left: 10px;">
-    <a target="_blank" href="mailto:cristianipa7@gmail.com"><img src="https://img.icons8.com/doodle/2x/gmail-new.png" width="40" height="40"></a>
-    <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/cristian-iparraguirre-926746313/"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" width="40" height="40"></a>
-    <a style="margin-left: 10px;" target="_blank" href="https://github.com/cristianipa7"><img src="https://img.icons8.com/doodle/40/000000/github--v1.png" width="40" height="40"></a>
-    <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/cristianipa7/"><img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" width="40" height="40"></a>
+    <a target="_blank" href="mailto:frhurtado10@gmail.com"><img src="https://img.icons8.com/doodle/2x/gmail-new.png" width="40" height="40"></a>
+    <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/francisco-hurtado-p-0b9602301/"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" width="40" height="40"></a>
+    <a style="margin-left: 10px;" target="_blank" href="https://github.com/franmanic2"><img src="https://img.icons8.com/doodle/40/000000/github--v1.png" width="40" height="40"></a>
+    <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/franmanic/"><img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" width="40" height="40"></a>
   </div>
 </p>
 
@@ -76,4 +76,4 @@
 
 ---
 
-[cristianipa7](https://github.com/cristianipa7)
+[@Franmanic](https://github.com/franmanic)
