@@ -3,8 +3,6 @@
     <summary><h1 style="display: inline-block; margin-bottom: 0px;">Hi 👋, I'm Francisco Hurtado</h1></summary>
   </ul>
 </div>
-<picture><img width="100%" src="https://www.animatedimages.org/data/media/562/animated-line-image-0484.gif"></picture>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Tagesschrift&weight=100&size=23&duration=2500&pause=1500&color=3BCC7E&center=true&vCenter=true&width=700&lines=Software+engineering+student;Passionate+about+Frontend+and+Backend+Development;Always+learning+new+things" alt="Typing SVG" />
