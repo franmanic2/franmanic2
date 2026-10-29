@@ -50,9 +50,9 @@
 ## <picture><img src="https://media.tenor.com/K3j9pwWlME0AAAAi/fire-flame.gif" width="30" height="30"></picture> Contribution snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cristianipa7/cristianipa7/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cristianipa7/cristianipa7/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cristianipa7/cristianipa7/output/github-contribution-grid-snake.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/franmanic2/franmanic2/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/franmanic2/franmanic2/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/franmanic2/franmanic2/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
 <br>
